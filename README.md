@@ -1,3 +1,5 @@
+To download isoMiRmap please visit [here](https://cm.jefferson.edu/isoMiRmap/).  In a few days, the source code will also be downloadable here on this GitHub page.
+
 # isoMiRmap
 IsoMiRmap is an open source python application for the fast, deterministic, and exhaustive mining of isomiRs. The tool produces output in HTML, miRGFF3, and in tab-delimited formats.  
 
