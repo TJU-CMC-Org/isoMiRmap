@@ -8,8 +8,7 @@ IsoMiRmap can be used to generate isomiR profiles from Short-RNA datasets.
 
 More information can be found at https://cm.jefferson.edu/isoMiRmap/
 
-If used, please cite:
-TBA
+If used, please use tool citation listed at https://cm.jefferson.edu/isoMiRmap/
 
 
 2. License
