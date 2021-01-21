@@ -1,8 +1,9 @@
-To download isoMiRmap please visit [here](https://cm.jefferson.edu/isoMiRmap/).  In a few days, the source code will also be downloadable here on this GitHub page.
+To download the latest release of isoMiRmap please visit [here](https://cm.jefferson.edu/isoMiRmap/) or the 'Releases' section of this GitHub page.
 
 # isoMiRmap
 IsoMiRmap is an open source python application for the fast, deterministic, and exhaustive mining of isomiRs. The tool produces output in HTML, miRGFF3, and in tab-delimited formats.  
 
+- Click [here](HOWTO_and_LICENSE.txt) to view the help and license for the tool
 - Click [here](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btab016/35927328/btab016.pdf) to view the isoMiRmap publication.
 - Click [here](https://cm.jefferson.edu/isoMiRmap/) to view more program details or to access downloadable isomiR profiles for 11,085 datasets from the 1000 Genomes and TCGA projects consisting of 5 population groups and 33 cancer types respectively.
 
